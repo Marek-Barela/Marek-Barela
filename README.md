@@ -1,6 +1,6 @@
 # 🧑‍💻 About Me:
 
-👋 Hi, I’m Marek Bareła<br><br>I’m a front-end developer passionate about creating accessible, well-structured, and eco-conscious applications. I specialize in building performant UIs with React, Tailwind CSS, and modern web tools — always keeping UX and SEO at the core of every feature I ship. I care about clean architecture, reusability, and developer experience.
+👋 Hi, I’m Marek<br><br>I’m a front-end developer passionate about creating accessible, well-structured, and eco-conscious applications. I specialize in building performant UIs with React, Tailwind CSS, and modern web tools — always keeping UX and SEO at the core of every feature I ship. I care about clean architecture, reusability, and developer experience.
 
 ## 🌐 Socials:
 
